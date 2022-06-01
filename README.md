@@ -1,4 +1,4 @@
-# installation
+# Installation
 Building for:
 - Jetson Nano
 - L4T 32.7.1/JetPack 4.6.1 
@@ -17,6 +17,6 @@ Run it with:
 $ sudo docker run --runtime=nvidia -it <name>
 ```
 
-# Reference
+# References
 1. [https://github.com/dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers)
 2. [https://github.com/JetsonHacksNano/buildOpenCV](https://github.com/JetsonHacksNano/buildOpenCV)
