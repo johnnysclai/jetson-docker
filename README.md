@@ -8,13 +8,13 @@ Building for:
 - OpenCV 4.5.5 (with CUDA)
 
 Build it with:
-```bash
-$ sudo docker build -t <name> ./
+```
+sudo docker build -t <name> ./
 ```
 
 Run it with:
-```bash
-$ sudo docker run --runtime=nvidia -it <name>
+```
+sudo docker run --runtime=nvidia -it <name>
 ```
 
 # References
